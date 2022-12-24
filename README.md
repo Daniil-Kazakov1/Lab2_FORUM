@@ -66,8 +66,7 @@
  ```
  
 Отправка данных поста:
-
-
+```php
     session_start();
     require_once 'connect.php';
 
@@ -84,4 +83,4 @@
     mysqli_query($connect, "INSERT INTO `post`(`id`, `login`, `text`, `date`, `img`)
                 VALUES(NULL, '$login', '".addslashes($post)."', '$date', '$path')");
     header('Location:../index.php');
- ?>'
+ ```
