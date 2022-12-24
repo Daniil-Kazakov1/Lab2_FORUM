@@ -37,5 +37,12 @@
 #### 4. Описание алгоритмов
 - Добавление поста
 <p align = "left"> <img src="https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Блок-схема%20создание%20поста.png"> </p>
+
 - Изменение поста
 <p align = "left"> <img src="https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Блок-схема%20изменение%20поста.png"> </p>
+
+- Удаление поста
+<p align = "left"> <img src="https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Блок-схема%20удаление%20поста.png"> </p>
+
+- Реакция на пост
+<p align = "left"> <img src="https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Блок-схема%20реакция%20на%20пост.png"> </p>
