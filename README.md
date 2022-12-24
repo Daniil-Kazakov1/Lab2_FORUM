@@ -46,3 +46,23 @@
 
 - Реакция на пост
 <p align = "left"> <img src="https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Блок-схема%20реакция%20на%20пост.png"> </p>
+
+#### 5. Значимые фрагменты кода
+Обновление поста:
+'''<?php
+
+    session_start();
+    require_once 'connect.php';
+
+    $id = $_POST['id'];
+    $post = $_POST['post'];
+    $login = $_POST['login'];
+    $date = date(" H : i : s d - m - Y ");
+    $path = 'uploads/'. time(). $_FILES['img']['name'];
+    move_uploaded_file($_FILES['img']['tmp_name'], $path);
+
+    mysqli_query($connect, "UPDATE `post` SET
+        `login` = '$login', `text` = '$post', `img` = '$path', `date` = '$date' WHERE `post`.`id` = '$id'");
+    header('Location:../index.php');
+ ?>
+'''
