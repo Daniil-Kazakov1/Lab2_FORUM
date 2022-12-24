@@ -20,3 +20,7 @@
 #### 3. Хореография
 ![Добавление поста](https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Добавление%20поста.png)
 ![Удаление поста](https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Удаление%20поста.png)
+#### 3. Стрктура БД
+![Таблица post]([https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Добавление%20поста.png](https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Структура%20БД%20post.png))
+
+![Таблица likes]([https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Удаление%20поста.png](https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Структура%20БД%20likes.png))
