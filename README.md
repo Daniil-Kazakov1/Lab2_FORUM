@@ -49,7 +49,7 @@
 
 #### 5. Значимые фрагменты кода
 Обновление поста:
-<?php
+'<?php
 
     session_start();
     require_once 'connect.php';
@@ -64,4 +64,4 @@
     mysqli_query($connect, "UPDATE `post` SET
         `login` = '$login', `text` = '$post', `img` = '$path', `date` = '$date' WHERE `post`.`id` = '$id'");
     header('Location:../index.php');
- ?>
+ ?>'
