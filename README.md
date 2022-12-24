@@ -9,4 +9,4 @@
 ------------------------------------------
 Ход работы
 ------------------------------------------
-#### [1.Интерфейс](https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/интерфейс.png)
+![Интерфейс](https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/интерфейс.png)
