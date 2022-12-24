@@ -31,8 +31,11 @@
 ![Таблица post](https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Структура%20БД%20post.png)
 
 - Таблица likes
+
 ![Таблица likes](https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Структура%20БД%20likes.png)
 
 #### 4. Описание алгоритмов
-Добавление поста
+- Добавление поста
 <p align = "left"> <img src="https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Блок-схема%20создание%20поста.png"> </p>
+- Изменение поста
+<p align = "left"> <img src="https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Блок-схема%20изменение%20поста.png"> </p>
