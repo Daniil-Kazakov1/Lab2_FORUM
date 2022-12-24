@@ -26,7 +26,7 @@
 
 ![Удаление поста](https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Удаление%20поста.png)
 
-#### 3. Стрктура БД
+#### 4. Стрктура БД
 - Таблица post
 ![Таблица post](https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Структура%20БД%20post.png)
 
@@ -34,7 +34,7 @@
 
 ![Таблица likes](https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Структура%20БД%20likes.png)
 
-#### 4. Описание алгоритмов
+#### 5. Описание алгоритмов
 - Добавление поста
 <p align = "left"> <img src="https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Блок-схема%20создание%20поста.png"> </p>
 
@@ -47,7 +47,7 @@
 - Реакция на пост
 <p align = "left"> <img src="https://github.com/Daniil-Kazakov1/Lab2_FORUM/blob/main/Блок-схема%20реакция%20на%20пост.png"> </p>
 
-#### 5. Значимые фрагменты кода
+#### 6. Значимые фрагменты кода
 Обновление поста:
 ```php
     session_start();
