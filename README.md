@@ -65,6 +65,7 @@
         `login` = '$login', `text` = '$post', `img` = '$path', `date` = '$date' WHERE `post`.`id` = '$id'");
     header('Location:../index.php');
  ?>'''
+ 
 Отправка данных поста:
 '<?
 
